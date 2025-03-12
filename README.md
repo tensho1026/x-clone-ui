@@ -1,17 +1,25 @@
-## Getting Started
+# 🚧 開発中: [X-Clone UI]
 
-First, run the development server:
+🚀 **デプロイ URL:** [https://x-clone-ui-kohl.vercel.app/](https://x-clone-ui-kohl.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/user-attachments/assets/4fa12f2b-9f3f-4998-ac79-660eea00e1e7)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 概要
+このプロジェクトは、**X（旧 Twitter）のクローン UI** を開発するための Next.js アプリです。  
+現在、開発途中であり、順次機能を追加予定です。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔧 使用技術
+- **フレームワーク:** Next.js (App Router)
+- **言語:** TypeScript
+- **スタイリング:** Tailwind CSS
+- **UI コンポーネント:** ShadCN/UI
+
+## 📌 現在の進捗
+✅ **LeftBar（サイドバー）実装完了**  
+✅ **レスポンシブ対応**
+⬜ フィード表示（投稿一覧）  
+⬜ 投稿機能  
+⬜ ユーザー認証  
+  
+
+
